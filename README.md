@@ -36,15 +36,15 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Mezepheles](https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png) | **Mezepheles** | You start knowing a secret word. The 1st good player to say this word becomes evil that night.
-![Godfather](https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png) | **Godfather** | You start knowing which Outsiders are in play. If 1 died today, choose a player tonight: they die. [-1 or +1 Outsider]
 ![Poisoner](https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png) | **Poisoner** | Each night, choose a player: they are poisoned tonight and tomorrow day.
 ![DevilsAdvocate](https://wiki.bloodontheclocktower.com/images/0/09/Icon_devilsadvocate.png) | **Devil's Advocate** | Each night, choose a living player (different to last night): if executed tomorrow, they don't die
+![Assassin](https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png) | **Assassin** | Once per game, at night\*, choose a player: they die, even if for some reason they could not.
+![Baron](https://wiki.bloodontheclocktower.com/images/6/6d/Icon_baron.png) | **Baron** | There are extra Outsiders in play. [+2 Outsiders]
 
 ### Demon
 
 Icon | Character | Text
 --- | --- | ---
 ![Imp](https://wiki.bloodontheclocktower.com/images/5/5c/Icon_imp.png) | **Imp** | Each night\*, choose a player: they die. If you kill yourself this way, a Minion becomes the Imp.
-![Ojo](https://wiki.bloodontheclocktower.com/images/6/6f/Icon_ojo.png) | **Ojo** | Each night\*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.
 ![Po](https://wiki.bloodontheclocktower.com/images/b/b2/Icon_po.png) | **Po** | Each night\*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.
 ![Vigormortis](https://wiki.bloodontheclocktower.com/images/1/1a/Icon_vigormortis.png) | **Vigormortis** | Each night*, choose a player: they die. Minions you kill keep their ability & poison 1 Townsfolk neighbor. [-1 Outsider]
